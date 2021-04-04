@@ -16,15 +16,15 @@
         - [x] Practice Quiz: Check Your Knowledge `3 questions`
         - [x] Video: Organization, Style & Editing Basics `00:06:00`
         - [x] Reading: Write a Practice Email `00:10:00`
-      - [ ] 03 Punctuation and Capitalization
-        - [ ] Video: Common Errors in Punctuation `00:05:00`
-        - [ ] Practice Quiz: Check Your knowledge `1 question`
-        - [ ] Video: Common Errors in Capitalization `00:02:00`
-        - [ ] Practice Quiz: Check Your Knowledge `1 question`
-        - [ ] Reading: Additional Resources `00:10:00`
-        - [ ] Peer-graded Assignment: Rewrite Kevin's Email `01:00:00`
-        - [ ] Review Your Peers: Rewrite Kevin's Email
-        - [ ] Reading: Get More from The Georgia Tech Language Institue `00:10:00`
+      - [x] 03 Punctuation and Capitalization
+        - [x] Video: Common Errors in Punctuation `00:05:00`
+        - [x] Practice Quiz: Check Your knowledge `1 question`
+        - [x] Video: Common Errors in Capitalization `00:02:00`
+        - [x] Practice Quiz: Check Your Knowledge `1 question`
+        - [x] Reading: Additional Resources `00:10:00`
+        - [x] Peer-graded Assignment: Rewrite Kevin's Email `01:00:00`
+        - [x] Review Your Peers: Rewrite Kevin's Email
+        - [x] Reading: Get More from The Georgia Tech Language Institue `00:10:00`
     - [ ] **Week 2 (Let's Start Writing)**
       - [ ] 01 The Subject Line
         - [ ] Video: Write Effective Subject Lines `00:06:00`
