@@ -9,9 +9,9 @@
   - [ ] [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english)
     - [x] **Week 1 (Get to Know Basic Email Writing Structures)**
     - [ ] **Week 2 (Let's Start Writing)**
-      - [ ] 01 The Subject Line
-        - [ ] Video: Write Effective Subject Lines `00:06:00`
-        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
+      - [x] 01 The Subject Line
+        - [x] Video: Write Effective Subject Lines `00:06:00`
+        - [x] Practice Quiz: Check Your Knowledge `3 questions`
       - [ ] 02 The Email Text (Body)
         - [ ] Video: Write Well-organized Email Text `00:06:00`
         - [ ] Practice Quiz: Check Your Knowledge `3 questions`
