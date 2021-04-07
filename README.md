@@ -12,12 +12,12 @@
       - [x] 01 The Subject Line
         - [x] Video: Write Effective Subject Lines `00:06:00`
         - [x] Practice Quiz: Check Your Knowledge `3 questions`
-      - [ ] 02 The Email Text (Body)
-        - [ ] Video: Write Well-organized Email Text `00:06:00`
-        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
-        - [ ] Reading: Additional Resources `00:10:00`
-        - [ ] Peer-graded Assignment: Complete Monica's Email `01:00:00`
-        - [ ] Review Your Peers: Complete Monica's Email
+      - [x] 02 The Email Text (Body)
+        - [x] Video: Write Well-organized Email Text `00:06:00`
+        - [x] Practice Quiz: Check Your Knowledge `3 questions`
+        - [x] Reading: Additional Resources `00:10:00`
+        - [x] Peer-graded Assignment: Complete Monica's Email `01:00:00`
+        - [x] Review Your Peers: Complete Monica's Email
     - [ ] **Week 3 (Introduction and Announcement Emails)**
       - [ ] 01 The Basics
         - [ ] Video: Overview of Introduction & Announcement Emails `00:03:00`
