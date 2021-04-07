@@ -10,9 +10,9 @@
     - [x] **Week 1 (Get to Know Basic Email Writing Structures)**
     - [x] **Week 2 (Let's Start Writing)**
     - [ ] **Week 3 (Introduction and Announcement Emails)**
-      - [ ] 01 The Basics
-        - [ ] Video: Overview of Introduction & Announcement Emails `00:03:00`
-        - [ ] Practice Quiz: Check Your Knowledge `2 questions`
+      - [x] 01 The Basics
+        - [x] Video: Overview of Introduction & Announcement Emails `00:03:00`
+        - [x] Practice Quiz: Check Your Knowledge `2 questions`
       - [ ] 02 Write Introduction & Announcement Emails
         - [ ] Video: Key Language for Writing These Types of Emails
         - [ ] Reading: Additional Resources `00:10:00`
