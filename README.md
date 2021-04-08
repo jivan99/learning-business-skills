@@ -11,9 +11,9 @@
     - [x] **Week 2 (Let's Start Writing)**
     - [x] **Week 3 (Introduction and Announcement Emails)**
     - [ ] **Week 4 (Request and Apology Emails)**
-      - [ ] 01 Write Request Emails
-        - [ ] Video: How to Write Request Emails `00:06:00`
-        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
+      - [x] 01 Write Request Emails
+        - [x] Video: How to Write Request Emails `00:06:00`
+        - [x] Practice Quiz: Check Your Knowledge `3 questions`
       - [ ] 02 Write Apology Emails
         - [ ] Video: How to Write Apology Emails `00:05:00`
         - [ ] Reading: Additional Resources `00:20:00`
