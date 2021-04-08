@@ -9,16 +9,7 @@
   - [ ] [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english)
     - [x] **Week 1 (Get to Know Basic Email Writing Structures)**
     - [x] **Week 2 (Let's Start Writing)**
-    - [ ] **Week 3 (Introduction and Announcement Emails)**
-      - [x] 01 The Basics
-        - [x] Video: Overview of Introduction & Announcement Emails `00:03:00`
-        - [x] Practice Quiz: Check Your Knowledge `2 questions`
-      - [x] 02 Write Introduction & Announcement Emails
-        - [x] Video: Key Language for Writing These Types of Emails
-        - [x] Reading: Additional Resources `00:10:00`
-        - [x] Practice Quiz: Check Your Knowledge `3 questions`
-        - [x] Peer-graded Assignment: Revise Your Introduction Email `00:60:00`
-        - [x] Review Your Peers: Revise Your Introduction Email
+    - [x] **Week 3 (Introduction and Announcement Emails)**
     - [ ] **Week 4 (Request and Apology Emails)**
       - [ ] 01 Write Request Emails
         - [ ] Video: How to Write Request Emails `00:06:00`
