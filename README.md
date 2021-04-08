@@ -13,12 +13,12 @@
       - [x] 01 The Basics
         - [x] Video: Overview of Introduction & Announcement Emails `00:03:00`
         - [x] Practice Quiz: Check Your Knowledge `2 questions`
-      - [ ] 02 Write Introduction & Announcement Emails
-        - [ ] Video: Key Language for Writing These Types of Emails
-        - [ ] Reading: Additional Resources `00:10:00`
-        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
-        - [ ] Peer-graded Assignment: Revise Your Introduction Email `00:60:00`
-        - [ ] Review Your Peers: Revise Your Introduction Email
+      - [x] 02 Write Introduction & Announcement Emails
+        - [x] Video: Key Language for Writing These Types of Emails
+        - [x] Reading: Additional Resources `00:10:00`
+        - [x] Practice Quiz: Check Your Knowledge `3 questions`
+        - [x] Peer-graded Assignment: Revise Your Introduction Email `00:60:00`
+        - [x] Review Your Peers: Revise Your Introduction Email
     - [ ] **Week 4 (Request and Apology Emails)**
       - [ ] 01 Write Request Emails
         - [ ] Video: How to Write Request Emails `00:06:00`
