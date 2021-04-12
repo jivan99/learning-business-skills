@@ -14,12 +14,12 @@
       - [x] 01 Write Request Emails
         - [x] Video: How to Write Request Emails `00:06:00`
         - [x] Practice Quiz: Check Your Knowledge `3 questions`
-      - [ ] 02 Write Apology Emails
-        - [ ] Video: How to Write Apology Emails `00:05:00`
-        - [ ] Reading: Additional Resources `00:20:00`
-        - [ ] Practice Quiz: Check Your Knowledge `3 questions`
-        - [ ] Peer-graded Assignment: Complete Martina's Request/Apology Email `01:00:00`
-        - [ ] Review Your Peers: Complete Martina's Request/Apology Email
+      - [x] 02 Write Apology Emails
+        - [x] Video: How to Write Apology Emails `00:05:00`
+        - [x] Reading: Additional Resources `00:20:00`
+        - [x] Practice Quiz: Check Your Knowledge `3 questions`
+        - [x] Peer-graded Assignment: Complete Martina's Request/Apology Email `01:00:00`
+        - [x] Review Your Peers: Complete Martina's Request/Apology Email
     - [ ] **Week 5 (Culture Matters)**
       - [ ] 01 High/Low Context Communication
         - [ ] Video: High/Low Context Communication `00:07:00`
