@@ -10,16 +10,7 @@
     - [x] **Week 1 (Get to Know Basic Email Writing Structures)**
     - [x] **Week 2 (Let's Start Writing)**
     - [x] **Week 3 (Introduction and Announcement Emails)**
-    - [ ] **Week 4 (Request and Apology Emails)**
-      - [x] 01 Write Request Emails
-        - [x] Video: How to Write Request Emails `00:06:00`
-        - [x] Practice Quiz: Check Your Knowledge `3 questions`
-      - [x] 02 Write Apology Emails
-        - [x] Video: How to Write Apology Emails `00:05:00`
-        - [x] Reading: Additional Resources `00:20:00`
-        - [x] Practice Quiz: Check Your Knowledge `3 questions`
-        - [x] Peer-graded Assignment: Complete Martina's Request/Apology Email `01:00:00`
-        - [x] Review Your Peers: Complete Martina's Request/Apology Email
+    - [x] **Week 4 (Request and Apology Emails)**
     - [ ] **Week 5 (Culture Matters)**
       - [ ] 01 High/Low Context Communication
         - [ ] Video: High/Low Context Communication `00:07:00`
