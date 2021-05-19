@@ -12,10 +12,10 @@
     - [x] **Week 3 (Introduction and Announcement Emails)**
     - [x] **Week 4 (Request and Apology Emails)**
     - [ ] **Week 5 (Culture Matters)**
-      - [ ] 01 High/Low Context Communication
-        - [ ] Video: High/Low Context Communication `00:07:00`
-        - [ ] Discussion Prompt: Communication Styles `00:10:00`
-        - [ ] Practice Quiz: Check Your Knowledge `2 questions`
+      - [x] 01 High/Low Context Communication
+        - [x] Video: High/Low Context Communication `00:07:00`
+        - [x] Discussion Prompt: Communication Styles `00:10:00`
+        - [x] Practice Quiz: Check Your Knowledge `2 questions`
       - [ ] 02 Age & Gender Considerations
         - [ ] Video: Age & Gender Considerations `00:05:00`
         - [ ] Reading: Additional Resources `00:20:00`
