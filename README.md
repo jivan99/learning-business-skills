@@ -8,6 +8,85 @@
 - [ ] [Coursera: Improve Your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english)
   - [x] [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english)
   - [ ] [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
+    - [ ] **Week 1 (Communicate in Person: The Power of Face to Face Connections)**
+      - [ ] 01 Intro to Course
+        - [ ] Video: Introduction to Course
+        - [ ] Discussion Prompt: Introduce Yourself to Your Course Mates
+        - [ ] Reading: Consent Form
+      - [ ] 02 Small Talk & Conversational Vocabulary
+        - [ ] Video: Small Talk & Conversational Vocabulary
+        - [ ] Reading: Review and Practice Small Talk
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 03 Express Yourself: Pronunciation 
+        - [ ] Video: Key Pronunciation: Stress & Intonation
+        - [ ] Reading: Practice Word Stress
+        - [ ] Reading: Practice Sentence Stress
+        - [ ] Reading: Practice Intonation
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 04 "Elevator Speech"
+        - [ ] Video: The Elevator Speech
+        - [ ] Reading: Additional Resources
+        - [ ] Reading: Get More from the Georgia Tech Language Institute
+        - [ ] Practice Quiz: Check Your Knowledge
+        - [ ] Peer-graded Assignment: Create an Elevator Speech Outline
+        - [ ] Review Your Peers: Create an Elevator Speech Outline
+        - [ ] Reading: Get More from The Georgia Tech Language Institute
+    - [ ] **Week 2 (Meet and Talk Online)**
+      - [ ] 01 Video Conferencing: Face to Face but Online
+        - [ ] Video: Basics of Meeting Online
+        - [ ] Reading: Additional Resources
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 02 Group Discussion Language
+        - [ ] Video: Group Discussion Language
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 03 Video Conference Role Play
+        - [ ] Video: Video Conference Role Play
+        - [ ] Reading: Practice with Dialogues
+        - [ ] Peer-graded Assignment: Use Group Discussion Language
+        - [ ] Review Your Peers: Use Group Discussion Language
+    - [ ] **Week 3 (Powerful Phone Talk)**
+      - [ ] 01 Telephone Language
+        - [ ] Video: Let's Learn Telephone Language
+        - [ ] Reading: Practice with Dialogues
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 02 Understand and Be Understood on the Phone
+        - [ ] Video: Key Pronunciation - Can/Can't & Numbers
+        - [ ] Reading: Practice Stress
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 03 Phone Role Play
+        - [ ] Video: Phone Role Play
+        - [ ] Reading: Additional Resources
+        - [ ] Practice Quiz: Check Your Knowledge
+        - [ ] Peer-graded Assignment: Participate in a Phone Conversation
+        - [ ] Review Your Peers: Participate in a Phone Conversation
+    - [ ] **Week 4 (Keys to a Strong Interview)**
+      - [ ] 01 Get Ready for the Interview
+        - [ ] Video: First Impressions: Body Language
+        - [ ] Reading: Practice Body Language
+        - [ ] Discussion Prompt: Talk about Body Language
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 02 Improve Your Pronunciation: -ed & -s endings
+        - [ ] Video: Key Pronunciation: -ed & -s Endings
+        - [ ] Reading: Practice -ed Endings
+        - [ ] Reading: Practice -s Endings
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 03 Interview Role Play
+        - [ ] Video: Interview Role Play
+        - [ ] Reading: Additional Resources
+        - [ ] Peer-graded Assignment: Do a Mock Interview
+        - [ ] Review Your Peers: Do a Mock Interview
+    - [ ] **Week 5 (Put It All Together: Presentations)**
+      - [ ] 01 Organize Your Pitch
+        - [ ] Video: Organizing Your Pitch: 3 Tells
+        - [ ] Reading: Additional Resources
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 02 Perfect Your Pronunciation
+        - [ ] Video: More about Stress & Intonation
+        - [ ] Reading: Stress Rules
+        - [ ] Practice Quiz: Check Your Knowledge
+        - [ ] Peer-graded Assignment: Deliver Your Pitch/Presentation
+        - [ ] Review Your Peers: Deliver Your Pitch/Presentation
+        - [ ] Reading: Where to go from here?
   - [ ] [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english)
   - [ ] [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
 - [ ] [Udemy: The Complete Communication Skills Master Class for Life](https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/)
