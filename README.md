@@ -17,12 +17,12 @@
         - [x] Video: Small Talk & Conversational Vocabulary
         - [x] Reading: Review and Practice Small Talk
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 03 Express Yourself: Pronunciation 
-        - [ ] Video: Key Pronunciation: Stress & Intonation
-        - [ ] Reading: Practice Word Stress
-        - [ ] Reading: Practice Sentence Stress
-        - [ ] Reading: Practice Intonation
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 03 Express Yourself: Pronunciation 
+        - [x] Video: Key Pronunciation: Stress & Intonation
+        - [x] Reading: Practice Word Stress
+        - [x] Reading: Practice Sentence Stress
+        - [x] Reading: Practice Intonation
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 04 "Elevator Speech"
         - [ ] Video: The Elevator Speech
         - [ ] Reading: Additional Resources
