@@ -10,10 +10,10 @@
   - [ ] [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
     - [x] **Week 1 (Communicate in Person: The Power of Face to Face Connections)**
     - [ ] **Week 2 (Meet and Talk Online)**
-      - [ ] 01 Video Conferencing: Face to Face but Online
-        - [ ] Video: Basics of Meeting Online
-        - [ ] Reading: Additional Resources
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 01 Video Conferencing: Face to Face but Online
+        - [x] Video: Basics of Meeting Online
+        - [x] Reading: Additional Resources
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 02 Group Discussion Language
         - [ ] Video: Group Discussion Language
         - [ ] Practice Quiz: Check Your Knowledge
