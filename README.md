@@ -14,9 +14,9 @@
         - [x] Video: Basics of Meeting Online
         - [x] Reading: Additional Resources
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 02 Group Discussion Language
-        - [ ] Video: Group Discussion Language
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 02 Group Discussion Language
+        - [x] Video: Group Discussion Language
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 03 Video Conference Role Play
         - [ ] Video: Video Conference Role Play
         - [ ] Reading: Practice with Dialogues
