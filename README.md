@@ -13,10 +13,10 @@
         - [x] Video: Introduction to Course
         - [x] Discussion Prompt: Introduce Yourself to Your Course Mates
         - [x] Reading: Consent Form
-      - [ ] 02 Small Talk & Conversational Vocabulary
-        - [ ] Video: Small Talk & Conversational Vocabulary
-        - [ ] Reading: Review and Practice Small Talk
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 02 Small Talk & Conversational Vocabulary
+        - [x] Video: Small Talk & Conversational Vocabulary
+        - [x] Reading: Review and Practice Small Talk
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 03 Express Yourself: Pronunciation 
         - [ ] Video: Key Pronunciation: Stress & Intonation
         - [ ] Reading: Practice Word Stress
