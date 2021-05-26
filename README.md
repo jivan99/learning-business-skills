@@ -23,14 +23,14 @@
         - [x] Reading: Practice Sentence Stress
         - [x] Reading: Practice Intonation
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 04 "Elevator Speech"
-        - [ ] Video: The Elevator Speech
-        - [ ] Reading: Additional Resources
-        - [ ] Reading: Get More from the Georgia Tech Language Institute
-        - [ ] Practice Quiz: Check Your Knowledge
-        - [ ] Peer-graded Assignment: Create an Elevator Speech Outline
-        - [ ] Review Your Peers: Create an Elevator Speech Outline
-        - [ ] Reading: Get More from The Georgia Tech Language Institute
+      - [x] 04 "Elevator Speech"
+        - [x] Video: The Elevator Speech
+        - [x] Reading: Additional Resources
+        - [x] Reading: Get More from the Georgia Tech Language Institute
+        - [x] Practice Quiz: Check Your Knowledge
+        - [x] Peer-graded Assignment: Create an Elevator Speech Outline
+        - [x] Review Your Peers: Create an Elevator Speech Outline
+        - [x] Reading: Get More from The Georgia Tech Language Institute
     - [ ] **Week 2 (Meet and Talk Online)**
       - [ ] 01 Video Conferencing: Face to Face but Online
         - [ ] Video: Basics of Meeting Online
