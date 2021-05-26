@@ -9,10 +9,10 @@
   - [x] [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english)
   - [ ] [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
     - [ ] **Week 1 (Communicate in Person: The Power of Face to Face Connections)**
-      - [ ] 01 Intro to Course
-        - [ ] Video: Introduction to Course
-        - [ ] Discussion Prompt: Introduce Yourself to Your Course Mates
-        - [ ] Reading: Consent Form
+      - [x] 01 Intro to Course
+        - [x] Video: Introduction to Course
+        - [x] Discussion Prompt: Introduce Yourself to Your Course Mates
+        - [x] Reading: Consent Form
       - [ ] 02 Small Talk & Conversational Vocabulary
         - [ ] Video: Small Talk & Conversational Vocabulary
         - [ ] Reading: Review and Practice Small Talk
