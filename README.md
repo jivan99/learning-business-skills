@@ -17,11 +17,11 @@
       - [x] 02 Group Discussion Language
         - [x] Video: Group Discussion Language
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 03 Video Conference Role Play
-        - [ ] Video: Video Conference Role Play
-        - [ ] Reading: Practice with Dialogues
-        - [ ] Peer-graded Assignment: Use Group Discussion Language
-        - [ ] Review Your Peers: Use Group Discussion Language
+      - [x] 03 Video Conference Role Play
+        - [x] Video: Video Conference Role Play
+        - [x] Reading: Practice with Dialogues
+        - [x] Peer-graded Assignment: Use Group Discussion Language
+        - [x] Review Your Peers: Use Group Discussion Language
     - [ ] **Week 3 (Powerful Phone Talk)**
       - [ ] 01 Telephone Language
         - [ ] Video: Let's Learn Telephone Language
