@@ -11,10 +11,10 @@
     - [x] **Week 1 (Communicate in Person: The Power of Face to Face Connections)**
     - [x] **Week 2 (Meet and Talk Online)**
     - [ ] **Week 3 (Powerful Phone Talk)**
-      - [ ] 01 Telephone Language
-        - [ ] Video: Let's Learn Telephone Language
-        - [ ] Reading: Practice with Dialogues
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 01 Telephone Language
+        - [x] Video: Let's Learn Telephone Language
+        - [x] Reading: Practice with Dialogues
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 02 Understand and Be Understood on the Phone
         - [ ] Video: Key Pronunciation - Can/Can't & Numbers
         - [ ] Reading: Practice Stress
