@@ -15,10 +15,10 @@
         - [x] Video: Let's Learn Telephone Language
         - [x] Reading: Practice with Dialogues
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 02 Understand and Be Understood on the Phone
-        - [ ] Video: Key Pronunciation - Can/Can't & Numbers
-        - [ ] Reading: Practice Stress
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 02 Understand and Be Understood on the Phone
+        - [x] Video: Key Pronunciation - Can/Can't & Numbers
+        - [x] Reading: Practice Stress
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 03 Phone Role Play
         - [ ] Video: Phone Role Play
         - [ ] Reading: Additional Resources
