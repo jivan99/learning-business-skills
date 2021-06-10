@@ -19,12 +19,12 @@
         - [x] Video: Key Pronunciation - Can/Can't & Numbers
         - [x] Reading: Practice Stress
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 03 Phone Role Play
-        - [ ] Video: Phone Role Play
-        - [ ] Reading: Additional Resources
-        - [ ] Practice Quiz: Check Your Knowledge
-        - [ ] Peer-graded Assignment: Participate in a Phone Conversation
-        - [ ] Review Your Peers: Participate in a Phone Conversation
+      - [x] 03 Phone Role Play
+        - [x] Video: Phone Role Play
+        - [x] Reading: Additional Resources
+        - [x] Practice Quiz: Check Your Knowledge
+        - [x] Peer-graded Assignment: Participate in a Phone Conversation
+        - [x] Review Your Peers: Participate in a Phone Conversation
     - [ ] **Week 4 (Keys to a Strong Interview)**
       - [ ] 01 Get Ready for the Interview
         - [ ] Video: First Impressions: Body Language
