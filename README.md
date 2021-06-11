@@ -12,11 +12,11 @@
     - [x] **Week 2 (Meet and Talk Online)**
     - [x] **Week 3 (Powerful Phone Talk)**
     - [ ] **Week 4 (Keys to a Strong Interview)**
-      - [ ] 01 Get Ready for the Interview
-        - [ ] Video: First Impressions: Body Language
-        - [ ] Reading: Practice Body Language
-        - [ ] Discussion Prompt: Talk about Body Language
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 01 Get Ready for the Interview
+        - [x] Video: First Impressions: Body Language
+        - [x] Reading: Practice Body Language
+        - [x] Discussion Prompt: Talk about Body Language
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 02 Improve Your Pronunciation: -ed & -s endings
         - [ ] Video: Key Pronunciation: -ed & -s Endings
         - [ ] Reading: Practice -ed Endings
