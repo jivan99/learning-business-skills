@@ -17,11 +17,11 @@
         - [x] Reading: Practice Body Language
         - [x] Discussion Prompt: Talk about Body Language
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 02 Improve Your Pronunciation: -ed & -s endings
-        - [ ] Video: Key Pronunciation: -ed & -s Endings
-        - [ ] Reading: Practice -ed Endings
-        - [ ] Reading: Practice -s Endings
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 02 Improve Your Pronunciation: -ed & -s endings
+        - [x] Video: Key Pronunciation: -ed & -s Endings
+        - [x] Reading: Practice -ed Endings
+        - [x] Reading: Practice -s Endings
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 03 Interview Role Play
         - [ ] Video: Interview Role Play
         - [ ] Reading: Additional Resources
