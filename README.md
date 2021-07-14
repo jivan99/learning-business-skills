@@ -22,11 +22,11 @@
         - [x] Reading: Practice -ed Endings
         - [x] Reading: Practice -s Endings
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 03 Interview Role Play
-        - [ ] Video: Interview Role Play
-        - [ ] Reading: Additional Resources
-        - [ ] Peer-graded Assignment: Do a Mock Interview
-        - [ ] Review Your Peers: Do a Mock Interview
+      - [x] 03 Interview Role Play
+        - [x] Video: Interview Role Play
+        - [x] Reading: Additional Resources
+        - [x] Peer-graded Assignment: Do a Mock Interview
+        - [x] Review Your Peers: Do a Mock Interview
     - [ ] **Week 5 (Put It All Together: Presentations)**
       - [ ] 01 Organize Your Pitch
         - [ ] Video: Organizing Your Pitch: 3 Tells
