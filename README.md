@@ -13,10 +13,10 @@
     - [x] **Week 3 (Powerful Phone Talk)**
     - [x] **Week 4 (Keys to a Strong Interview)**
     - [ ] **Week 5 (Put It All Together: Presentations)**
-      - [ ] 01 Organize Your Pitch
-        - [ ] Video: Organizing Your Pitch: 3 Tells
-        - [ ] Reading: Additional Resources
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 01 Organize Your Pitch
+        - [x] Video: Organizing Your Pitch: 3 Tells
+        - [x] Reading: Additional Resources
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 02 Perfect Your Pronunciation
         - [ ] Video: More about Stress & Intonation
         - [ ] Reading: Stress Rules
