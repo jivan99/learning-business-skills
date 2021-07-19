@@ -9,6 +9,66 @@
   - [x] [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english)
   - [x] [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
   - [ ] [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english)
+    - [ ] **Week 1 (Start Building Your Brand)**
+      - [ ] 01 Intro to Course
+        - [ ] Video: Introduction to Course
+        - [ ] Reading: Consent Form
+        - [ ] Discussion Prompt: Get to Know Your Course Mates
+        - [ ] Reading: Choosing a Website Builder for Your ePortfolio
+      - [ ] 02 Create a Headline
+        - [ ] Video: Creating an Effective Headline
+        - [ ] Reading: Lesson Review & List of Action Verbs
+        - [ ] Reading: Additional Practice with Action Verbs
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 03 Write a Summary about Yourself
+        - [ ] Video: Writing Your Summary of Capabilities
+        - [ ] Reading: Lesson Review & Additional Practice
+        - [ ] Reading: Signing Up on LinkedIn
+        - [ ] Practice Quiz: Check Your Knowledge
+        - [ ] Peer-graded Assignment: Add a Headline & Summary to Your ePortfolio
+        - [ ] Review Your Peers: Add a Headline & Summary to Your ePortfolio
+        - [ ] Reading: Get More from The Georgia Tech Language Institute
+    - [ ] **Week 2 (Showcase Your Work)**
+      - [ ] 01 Describe Your Work with Captions
+        - [ ] Video: Writing Clear Captions
+        - [ ] Reading: Additional Practice
+        - [ ] Reading: Additional Resources
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 02 Describe Your Work with More Details
+        - [ ] Video: Writing Longer Descriptions of Your Work
+        - [ ] Reading: Lesson Review & List of Adjectives
+        - [ ] Reading: Descriptive Adjectives
+        - [ ] Practice Quiz: Check Your Knowledge
+        - [ ] Peer-graded Assignment: Write Captions and Descriptions about Your Work
+        - [ ] Review Your Peers: Write Captions and Descriptions about Your Work 
+    - [ ] **Week 3 (Complete the Main Parts of Your Resume)**
+      - [ ] 01 Write about Your Education
+        - [ ] Video: Key Language for Your Education Section
+        - [ ] Reading: Additional Resources & Practice
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 02 Write about Your Work Experience
+        - [ ] Video: Key Language for Your Work Experience Section
+        - [ ] Discussion Prompt: Expand Your LinkedIn Network
+        - [ ] Reading: Lesson Review & Job Titles
+        - [ ] Reading: Additional Practice with Action Verbs
+        - [ ] Practice Quiz: Check Your Knowledge
+        - [ ] Peer-graded Assignment: Share Your Resume
+        - [ ] Review Your Peers: Share Your Resume
+    - [ ] **Week 4 (Network with Other Professionals)**
+      - [ ] 01 Connect with Other Professionals in Your Field
+        - [ ] Video: Connect with Meaningful Comments
+        - [ ] Discussion Prompt: Make Meaningful Connections Here
+        - [ ] Reading: Lesson Review
+        - [ ] Reading: Additional Resources
+        - [ ] Practice Quiz: Check Your Knowledge
+      - [ ] 02 Connect to Get a Job
+        - [ ] Video: Connect to Get a Job
+        - [ ] Reading: Lesson Review & Additional Practice
+        - [ ] Reading: Additional Resources
+        - [ ] Practice Quiz: Check Your Knowledge
+        - [ ] Peer-graded Assignment: Compare & Reflect on Your ePortfolio
+        - [ ] Review Your Peers: Compare & Reflect on Your ePortfolio
+        - [ ] Reading: Where to go from here?
   - [ ] [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
 - [ ] [Udemy: The Complete Communication Skills Master Class for Life](https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/)
 
