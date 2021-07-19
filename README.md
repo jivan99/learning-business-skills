@@ -7,12 +7,7 @@
 - [ ] [Pluralsight: Communications for Technologists](https://www.pluralsight.com/paths/communications-for-technologists-skill)
 - [ ] [Coursera: Improve Your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english)
   - [x] [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english)
-  - [ ] [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
-    - [x] **Week 1 (Communicate in Person: The Power of Face to Face Connections)**
-    - [x] **Week 2 (Meet and Talk Online)**
-    - [x] **Week 3 (Powerful Phone Talk)**
-    - [x] **Week 4 (Keys to a Strong Interview)**
-    - [x] **Week 5 (Put It All Together: Presentations)**
+  - [x] [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
   - [ ] [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english)
   - [ ] [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
 - [ ] [Udemy: The Complete Communication Skills Master Class for Life](https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/)
