@@ -17,13 +17,13 @@
         - [x] Video: Organizing Your Pitch: 3 Tells
         - [x] Reading: Additional Resources
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 02 Perfect Your Pronunciation
-        - [ ] Video: More about Stress & Intonation
-        - [ ] Reading: Stress Rules
-        - [ ] Practice Quiz: Check Your Knowledge
-        - [ ] Peer-graded Assignment: Deliver Your Pitch/Presentation
-        - [ ] Review Your Peers: Deliver Your Pitch/Presentation
-        - [ ] Reading: Where to go from here?
+      - [x] 02 Perfect Your Pronunciation
+        - [x] Video: More about Stress & Intonation
+        - [x] Reading: Stress Rules
+        - [x] Practice Quiz: Check Your Knowledge
+        - [x] Peer-graded Assignment: Deliver Your Pitch/Presentation
+        - [x] Review Your Peers: Deliver Your Pitch/Presentation
+        - [x] Reading: Where to go from here?
   - [ ] [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english)
   - [ ] [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
 - [ ] [Udemy: The Complete Communication Skills Master Class for Life](https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/)
