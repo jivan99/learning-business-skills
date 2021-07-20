@@ -20,14 +20,14 @@
         - [x] Reading: Lesson Review & List of Action Verbs
         - [x] Reading: Additional Practice with Action Verbs
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 03 Write a Summary about Yourself
-        - [ ] Video: Writing Your Summary of Capabilities
-        - [ ] Reading: Lesson Review & Additional Practice
-        - [ ] Reading: Signing Up on LinkedIn
-        - [ ] Practice Quiz: Check Your Knowledge
-        - [ ] Peer-graded Assignment: Add a Headline & Summary to Your ePortfolio
-        - [ ] Review Your Peers: Add a Headline & Summary to Your ePortfolio
-        - [ ] Reading: Get More from The Georgia Tech Language Institute
+      - [x] 03 Write a Summary about Yourself
+        - [x] Video: Writing Your Summary of Capabilities
+        - [x] Reading: Lesson Review & Additional Practice
+        - [x] Reading: Signing Up on LinkedIn
+        - [x] Practice Quiz: Check Your Knowledge
+        - [x] Peer-graded Assignment: Add a Headline & Summary to Your ePortfolio
+        - [x] Review Your Peers: Add a Headline & Summary to Your ePortfolio
+        - [x] Reading: Get More from The Georgia Tech Language Institute
     - [ ] **Week 2 (Showcase Your Work)**
       - [ ] 01 Describe Your Work with Captions
         - [ ] Video: Writing Clear Captions
