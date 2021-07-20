@@ -10,11 +10,11 @@
   - [x] [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
   - [ ] [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english)
     - [ ] **Week 1 (Start Building Your Brand)**
-      - [ ] 01 Intro to Course
-        - [ ] Video: Introduction to Course
-        - [ ] Reading: Consent Form
-        - [ ] Discussion Prompt: Get to Know Your Course Mates
-        - [ ] Reading: Choosing a Website Builder for Your ePortfolio
+      - [x] 01 Intro to Course
+        - [x] Video: Introduction to Course
+        - [x] Reading: Consent Form
+        - [x] Discussion Prompt: Get to Know Your Course Mates
+        - [x] Reading: Choosing a Website Builder for Your ePortfolio
       - [ ] 02 Create a Headline
         - [ ] Video: Creating an Effective Headline
         - [ ] Reading: Lesson Review & List of Action Verbs
