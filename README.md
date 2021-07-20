@@ -15,11 +15,11 @@
         - [x] Reading: Consent Form
         - [x] Discussion Prompt: Get to Know Your Course Mates
         - [x] Reading: Choosing a Website Builder for Your ePortfolio
-      - [ ] 02 Create a Headline
-        - [ ] Video: Creating an Effective Headline
-        - [ ] Reading: Lesson Review & List of Action Verbs
-        - [ ] Reading: Additional Practice with Action Verbs
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 02 Create a Headline
+        - [x] Video: Creating an Effective Headline
+        - [x] Reading: Lesson Review & List of Action Verbs
+        - [x] Reading: Additional Practice with Action Verbs
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 03 Write a Summary about Yourself
         - [ ] Video: Writing Your Summary of Capabilities
         - [ ] Reading: Lesson Review & Additional Practice
