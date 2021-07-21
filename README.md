@@ -11,11 +11,11 @@
   - [ ] [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english)
     - [x] **Week 1 (Start Building Your Brand)**
     - [ ] **Week 2 (Showcase Your Work)**
-      - [ ] 01 Describe Your Work with Captions
-        - [ ] Video: Writing Clear Captions
-        - [ ] Reading: Additional Practice
-        - [ ] Reading: Additional Resources
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 01 Describe Your Work with Captions
+        - [x] Video: Writing Clear Captions
+        - [x] Reading: Additional Practice
+        - [x] Reading: Additional Resources
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 02 Describe Your Work with More Details
         - [ ] Video: Writing Longer Descriptions of Your Work
         - [ ] Reading: Lesson Review & List of Adjectives
