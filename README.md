@@ -16,13 +16,13 @@
         - [x] Reading: Additional Practice
         - [x] Reading: Additional Resources
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 02 Describe Your Work with More Details
-        - [ ] Video: Writing Longer Descriptions of Your Work
-        - [ ] Reading: Lesson Review & List of Adjectives
-        - [ ] Reading: Descriptive Adjectives
-        - [ ] Practice Quiz: Check Your Knowledge
-        - [ ] Peer-graded Assignment: Write Captions and Descriptions about Your Work
-        - [ ] Review Your Peers: Write Captions and Descriptions about Your Work 
+      - [x] 02 Describe Your Work with More Details
+        - [x] Video: Writing Longer Descriptions of Your Work
+        - [x] Reading: Lesson Review & List of Adjectives
+        - [x] Reading: Descriptive Adjectives
+        - [x] Practice Quiz: Check Your Knowledge
+        - [x] Peer-graded Assignment: Write Captions and Descriptions about Your Work
+        - [x] Review Your Peers: Write Captions and Descriptions about Your Work 
     - [ ] **Week 3 (Complete the Main Parts of Your Resume)**
       - [ ] 01 Write about Your Education
         - [ ] Video: Key Language for Your Education Section
