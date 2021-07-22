@@ -13,12 +13,12 @@
     - [x] **Week 2 (Showcase Your Work)**
     - [x] **Week 3 (Complete the Main Parts of Your Resume)**
     - [ ] **Week 4 (Network with Other Professionals)**
-      - [ ] 01 Connect with Other Professionals in Your Field
-        - [ ] Video: Connect with Meaningful Comments
-        - [ ] Discussion Prompt: Make Meaningful Connections Here
-        - [ ] Reading: Lesson Review
-        - [ ] Reading: Additional Resources
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 01 Connect with Other Professionals in Your Field
+        - [x] Video: Connect with Meaningful Comments
+        - [x] Discussion Prompt: Make Meaningful Connections Here
+        - [x] Reading: Lesson Review
+        - [x] Reading: Additional Resources
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 02 Connect to Get a Job
         - [ ] Video: Connect to Get a Job
         - [ ] Reading: Lesson Review & Additional Practice
