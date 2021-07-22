@@ -16,14 +16,14 @@
         - [x] Video: Key Language for Your Education Section
         - [x] Reading: Additional Resources & Practice
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 02 Write about Your Work Experience
-        - [ ] Video: Key Language for Your Work Experience Section
-        - [ ] Discussion Prompt: Expand Your LinkedIn Network
-        - [ ] Reading: Lesson Review & Job Titles
-        - [ ] Reading: Additional Practice with Action Verbs
-        - [ ] Practice Quiz: Check Your Knowledge
-        - [ ] Peer-graded Assignment: Share Your Resume
-        - [ ] Review Your Peers: Share Your Resume
+      - [x] 02 Write about Your Work Experience
+        - [x] Video: Key Language for Your Work Experience Section
+        - [x] Discussion Prompt: Expand Your LinkedIn Network
+        - [x] Reading: Lesson Review & Job Titles
+        - [x] Reading: Additional Practice with Action Verbs
+        - [x] Practice Quiz: Check Your Knowledge
+        - [x] Peer-graded Assignment: Share Your Resume
+        - [x] Review Your Peers: Share Your Resume
     - [ ] **Week 4 (Network with Other Professionals)**
       - [ ] 01 Connect with Other Professionals in Your Field
         - [ ] Video: Connect with Meaningful Comments
