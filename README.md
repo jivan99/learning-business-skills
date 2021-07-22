@@ -12,21 +12,7 @@
     - [x] **Week 1 (Start Building Your Brand)**
     - [x] **Week 2 (Showcase Your Work)**
     - [x] **Week 3 (Complete the Main Parts of Your Resume)**
-    - [ ] **Week 4 (Network with Other Professionals)**
-      - [x] 01 Connect with Other Professionals in Your Field
-        - [x] Video: Connect with Meaningful Comments
-        - [x] Discussion Prompt: Make Meaningful Connections Here
-        - [x] Reading: Lesson Review
-        - [x] Reading: Additional Resources
-        - [x] Practice Quiz: Check Your Knowledge
-      - [x] 02 Connect to Get a Job
-        - [x] Video: Connect to Get a Job
-        - [x] Reading: Lesson Review & Additional Practice
-        - [x] Reading: Additional Resources
-        - [x] Practice Quiz: Check Your Knowledge
-        - [x] Peer-graded Assignment: Compare & Reflect on Your ePortfolio
-        - [x] Review Your Peers: Compare & Reflect on Your ePortfolio
-        - [x] Reading: Where to go from here?
+    - [x] **Week 4 (Network with Other Professionals)**
   - [ ] [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
 - [ ] [Udemy: The Complete Communication Skills Master Class for Life](https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/)
 
