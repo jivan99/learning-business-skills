@@ -59,3 +59,8 @@
 - [ ] [Coursera: Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation)
 - [ ] [English for Career Development](https://www.coursera.org/learn/careerdevelopment)
 
+## Master Negotiation
+
+- [ ] [Coursera: Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills)
+- [ ] [Masterclass: Chriss Voss Teaches the Art of Negotiation](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
+
