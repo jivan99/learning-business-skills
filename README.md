@@ -19,14 +19,14 @@
         - [x] Reading: Lesson Review
         - [x] Reading: Additional Resources
         - [x] Practice Quiz: Check Your Knowledge
-      - [ ] 02 Connect to Get a Job
-        - [ ] Video: Connect to Get a Job
-        - [ ] Reading: Lesson Review & Additional Practice
-        - [ ] Reading: Additional Resources
-        - [ ] Practice Quiz: Check Your Knowledge
-        - [ ] Peer-graded Assignment: Compare & Reflect on Your ePortfolio
-        - [ ] Review Your Peers: Compare & Reflect on Your ePortfolio
-        - [ ] Reading: Where to go from here?
+      - [x] 02 Connect to Get a Job
+        - [x] Video: Connect to Get a Job
+        - [x] Reading: Lesson Review & Additional Practice
+        - [x] Reading: Additional Resources
+        - [x] Practice Quiz: Check Your Knowledge
+        - [x] Peer-graded Assignment: Compare & Reflect on Your ePortfolio
+        - [x] Review Your Peers: Compare & Reflect on Your ePortfolio
+        - [x] Reading: Where to go from here?
   - [ ] [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
 - [ ] [Udemy: The Complete Communication Skills Master Class for Life](https://www.udemy.com/course/the-complete-communication-skills-master-class-for-life/)
 
