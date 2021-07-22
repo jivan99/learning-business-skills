@@ -12,10 +12,10 @@
     - [x] **Week 1 (Start Building Your Brand)**
     - [x] **Week 2 (Showcase Your Work)**
     - [ ] **Week 3 (Complete the Main Parts of Your Resume)**
-      - [ ] 01 Write about Your Education
-        - [ ] Video: Key Language for Your Education Section
-        - [ ] Reading: Additional Resources & Practice
-        - [ ] Practice Quiz: Check Your Knowledge
+      - [x] 01 Write about Your Education
+        - [x] Video: Key Language for Your Education Section
+        - [x] Reading: Additional Resources & Practice
+        - [x] Practice Quiz: Check Your Knowledge
       - [ ] 02 Write about Your Work Experience
         - [ ] Video: Key Language for Your Work Experience Section
         - [ ] Discussion Prompt: Expand Your LinkedIn Network
