@@ -64,3 +64,12 @@
 - [ ] [Coursera: Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills)
 - [ ] [Masterclass: Chriss Voss Teaches the Art of Negotiation](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
 
+## Master Investment
+
+- [ ] [Youtube: Stock Investing Like Warren Buffett - Beginners](https://www.youtube.com/playlist?list=PLECECA66C0CE68B1E)
+- [ ] [Youtube: Stock Investing Like Warren Buffett - Intermediate](https://www.youtube.com/playlist?list=PLD3EB06EC4A19BFB8)
+- [ ] [Youtube: Stock Investing Like Warren Buffett - Advanced](https://www.youtube.com/playlist?list=PL4F98F82F436543F7)
+- [ ] [Udemy: Investing In Stocks The Complete Course! (13 Hour)](https://www.udemy.com/course/investing-in-stocks/)
+- [ ] [Udemy: Stock Market Trading: The Complete Technical Analysis Course](https://www.udemy.com/course/stock-market-trading-investing-complete-technical-analysis-course/)
+
+
